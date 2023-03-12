@@ -25,7 +25,7 @@ Midjourney， NeRF, ChatGPT..., AIGC的发展已经到了一个奇点。作为�
 
 ## 资讯交流
 ### 1. 微信体验交流群
-加入体验交流群，与AIGC领域专家和爱好者们一起讨论ChatGPT赚钱攻略
+加入体验交流群(请注明github)，与AIGC领域专家和爱好者们一起讨论ChatGPT赚钱攻略
 |直接加群                   | 如果群无法使用，加我拉你入群|
 |:-------------------------|:--------------------------:|
 | <img src="./img/wechat_group.jpg" width="300"/> | <img src="./img/wechat_personal.jpg" width="300/" >

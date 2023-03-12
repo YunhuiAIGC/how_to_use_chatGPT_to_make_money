@@ -15,7 +15,7 @@ Midjourney， NeRF, ChatGPT..., AIGC的发展已经到了一个奇点。作为�
 
 ## 资料共享
 ### 1. Facebook 的LLaMA 模型（~240 GB）- 百度网盘下载
-<img src="./img/baidu_llama.jpg" width="300"/>
+<img src="./img/baidu_llama.png" width="300"/>
 网盘链接：链接：https://pan.baidu.com/s/1P_yvrbVrK1W8cwjdhCrMJw 
 提取码：y5oj 
  

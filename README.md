@@ -8,7 +8,8 @@ Midjourney， NeRF, ChatGPT..., AIGC的发展已经到了一个奇点。作为�
 使用指南， 资料共享，代码分享，应用案例， 资讯交流，其他
 
 ## 使用指南
-### 基操： https://www.awyerwu.com/9273.html
+1. 基操： 注册 https://www.awyerwu.com/9273.html
+2. 
 
 ## 资料共享
 

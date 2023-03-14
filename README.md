@@ -23,6 +23,38 @@ Midjourney， NeRF, ChatGPT..., AIGC的发展已经到了一个奇点。作为�
 ## 代码共享
 
 ## 应用案例
+避免为了分享而分享，这里列举的都是别人已经成功实践过的案例，方便大家复现。
+
+### 聊天机器人
+1. 微信： https://aklilnlzw6.feishu.cn/wiki/wikcnKiBs8xI1pp1W6wR0HaHexb#SYMUdUyo8o0SAuxiOx7c1a7Wnoc
+2. Siri: https://aklilnlzw6.feishu.cn/wiki/wikcnKiBs8xI1pp1W6wR0HaHexb#Uu0odiQOComMg8xIQoJcbF8knVK
+3. QQ: https://aklilnlzw6.feishu.cn/wiki/wikcnKiBs8xI1pp1W6wR0HaHexb#YoCcdc0kcocOUQxApb3chy7Jn3e
+4. 小米： https://aklilnlzw6.feishu.cn/wiki/wikcnKiBs8xI1pp1W6wR0HaHexb#TKusd4g8qooOEqx2HbLcwrnpnRg
+5. 钉钉： https://aklilnlzw6.feishu.cn/wiki/wikcnKiBs8xI1pp1W6wR0HaHexb#KgAqdSi62oKoUUx4PSTcuKETnjg
+6. 飞书： https://aklilnlzw6.feishu.cn/wiki/wikcnKiBs8xI1pp1W6wR0HaHexb#QwOkdm4uuoa0QwxgXtUcHHtKnTf
+
+### 视频字幕总结
+1. Bilibili: https://aklilnlzw6.feishu.cn/wiki/wikcnKiBs8xI1pp1W6wR0HaHexb#GYEqdQWseoq4yqxaygbcpy7Pnuh
+2. Youtube: https://aklilnlzw6.feishu.cn/wiki/wikcnKiBs8xI1pp1W6wR0HaHexb#BOiKdQSGmocyMsxcfKqcuBWUnwc
+
+### 写歌曲
+1. https://www.zhihu.com/question/570729170/answer/2831770674?utm_campaign=shareopn&utm_content=group3_Answer&utm_medium=social&utm_oi=891922010089861120&utm_psn=1607276254025142272&utm_source=wechat_session&s_r=0
+
+
+### 写论文
+1. https://aklilnlzw6.feishu.cn/wiki/wikcnKiBs8xI1pp1W6wR0HaHexb#QAKSdiocgoc0aQxedg8c27bnncb
+
+### 生成小红书高赞标题，tag
+1. https://aklilnlzw6.feishu.cn/wiki/wikcnKiBs8xI1pp1W6wR0HaHexb#LwWWd4w2GoKqGGx5Woqc6ryInHN
+
+### 生成代码
+1. 网页抓取代码： https://aklilnlzw6.feishu.cn/wiki/wikcnKiBs8xI1pp1W6wR0HaHexb#ZkOYdGuoqoOKEexISwyc5rOPnoO
+
+### 写剧本杀脚本
+1. https://www.youtube.com/watch?v=rqqvXrKdpgA
+
+### 团队管理
+1. https://zhuanlan.zhihu.com/p/605417148?utm_medium=social&utm_oi=1124262559431401472&utm_psn=1617868391137636352&utm_source=wechat_session
 
 ## 资讯交流
 ### 1. 微信体验交流群
